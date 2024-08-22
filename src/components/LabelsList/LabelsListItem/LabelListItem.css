@@ -1,0 +1,24 @@
+.LabelListItem {
+    display: flex;
+    justify-content: space-between;
+    min-width: 142px;
+    height: 30px;
+    padding: 6px 10px;
+    padding-right: 0;
+    box-sizing: border-box;
+    background-color: #121212;
+}
+
+.LabelListItem__label {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    border-right: 1px solid #FFFFFF80;
+}
+
+.LabelListItem__remove {
+    cursor: pointer;
+    background: unset;
+    color: #fff;
+    padding: 0 10px;
+}

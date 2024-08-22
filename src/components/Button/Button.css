@@ -1,0 +1,10 @@
+.button {
+    cursor: pointer;
+    color: #fff;
+    padding: 7px 30px;
+    background-color: #519F03;
+}
+
+.button_red {
+    background-color: #9F2903;
+}

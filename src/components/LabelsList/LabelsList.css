@@ -1,0 +1,6 @@
+.labelsList {
+    color: #fff;
+    display: flex;
+    gap: 10px;
+    min-height: 30px;
+}

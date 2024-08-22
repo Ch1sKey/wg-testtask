@@ -1,0 +1,22 @@
+.selectWidget__item {
+    display: flex;
+    align-items: center;
+}
+
+.selectWidget__item:hover {
+    background-color: #2b2b2b;
+}
+
+.selectWidget__item__label {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    gap: 15px;
+    
+    padding: 7px 20px;
+}
+
+.selectWidget__item input {
+    width: 13px;
+    height: 13px;
+}
